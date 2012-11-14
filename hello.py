@@ -1,5 +1,5 @@
-#code to print all permutations of a string
-#in current form to solve Project Euler problem #24 (though it can be solved by hand also)
+#wrote code to print all permutations of a string
+#modified it so it solves Project Euler problem #24 (though it can be solved by hand also)
 
 num=0
 
@@ -15,6 +15,18 @@ def permute(prev_str, str):
 
 permute("", "0123456789")
 #permute("", "abcde")
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
